@@ -1,0 +1,24 @@
+¿QUE ES RAW?
+
+*no es un tipo del sistema de archivos en su concepto general, sino representa un símbolo de la incertidumbre de un sistema de archivos específico de el dispositivo.
+* Cualquier sistema de archivos tiene un modo determinante ordenado de organización, almacenamiento y marcaje de datos en los medios de almacenamiento, que define el formato del contenido y establece el conjunto de atributos de los archivos utilizados.
+*Si los controladores del sistema operativo «Windows» no pueden identificar y correlacionar un sistema de archivos de un dispositivo de memoria con los formatos conocidos de nombres, dicho dispositivo se etiquetará como «RAW».
+*A menudo, esto significa que una unidad «flash USB» o tarjeta de memoria recibió un cierto tipo de daño en el nivel del sistema de archivos y no responde a las solicitudes del sistema operativo.
+
+
+¿COMO CORREGIR LAS FALLAS DE MICRO SD EN FORMATO RAW?
+
+1-Utilizar CMD para reparar tarjeta SD RAW sin formatear
+
+Cuando la tarjeta SD está dañada o se convierte en RAW, puede intentar solucionarla utilizando la utilidad chkdsk en el símbolo del sistema CMD. Como una herramienta integrada de reparación de archivos de Windowa, es su primera opción para reparar la tarjeta SD dañada o RAW. Para hacerlo:
+Haga clic en Inicio, y escriba cmd.exe en el cuadro de búsqueda y pulse Enter
+scriba chkdsk /x/f X: y pulse Enter (reemplace X por la letra de unidad de su tarjeta SD Raw)
+
+2-Recuperar datos y hacer formateo para reparar una tarjeta SD RAW
+
+Paso 1. Primero conecte la tarjeta SD a la computadora que tiene instalado EaseUS Data Recovery Wizard. Seleccione la tarjeta SD que debe reconocerse como una unidad externa en el software, y luego pulse en "Escanear".
+Paso 2. Primero va a hacer un escaneo rápido primero sobre la tarjeta SD para encontrar los archivos borrados, una vez terminado, se iniciará otro escaneo profundo automáticamente para encontrar más archivos perdidos en ella que pierden su nombre o ruta.
+El tiempo que se tardará denpende de la capacidad de la tarjeta de memoria, espere con paciencia hasta que termine.
+Paso 3. Cuando termina el escaneo profundo, puede buscar lo que desee por varias maneras que se detallan en la siguiente captura.
+Marque aquellos archivos que desee recuperar y haga clic en el botón "Recuperar" para recuperarlos de una vez.
+En el último paso debe elegir una ubicación diferente en lugar de la tarjeta SD original para evitar la sobreescritura de datos.
